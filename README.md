@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @f-a-i-s-a-l
+- 👋 Hi, I’m Faisal. I'm from India
 - 📚 I'm a student
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Java and Unity

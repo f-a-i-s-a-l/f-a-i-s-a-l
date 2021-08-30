@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Faisal. I'm from India
 - 📚 I'm a student
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Java, Unity using C#, and Front-end development tools
-- 💞️ I’m looking to collaborate on Java and Unity projects
+- 👀 I’m interested in Open Source Contribution
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 To reach me, you may contact me through my e-mail 19.faisalahmed.official@gmail.com
 
 <!---

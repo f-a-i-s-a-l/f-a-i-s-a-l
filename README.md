@@ -2,6 +2,7 @@
 - 📚 I'm a student
 - 👀 I’m interested in Open Source Contribution
 - 🌱 I’m currently learning Java
+- 🤓 My skills - Java, HTML, CSS, Javascript, Unity Framework, Adobe Photoshop
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 To reach me, you may contact me through my e-mail 19.faisalahmed.official@gmail.com
 

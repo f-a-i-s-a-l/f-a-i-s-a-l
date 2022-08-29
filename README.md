@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Faisal. I'm from India
 - 📚 I'm a student
 - 👀 I’m interested in Open Source Contribution
-- 🌱 I’m currently learning Java
-- 🤓 My skills - Java, C++, Python, Front-End, Unity, Adobe Photoshop
+- 🌱 I’m currently learning Javascript
+- 🤓 My skills - Java, C++, Front-End, Unity, Adobe Photoshop
 - 📫 To reach me, you may contact me through my e-mail 19.faisalahmed.official@gmail.com
 
 <!---
